@@ -1,0 +1,18 @@
+body {
+  background-color: #7D7478;
+    background-image: url('../images/japanese-traditional-interior-shoji.jpg');
+    background-position: center 60px;
+    background-repeat: no-repeat;
+  font-family: sans-serif;
+}
+h1 {
+  color: #3A1953;
+  border-bottom: 2px solid #223939;
+}
+h2 {
+  color: #373B94;
+  font-size: 1.0em;
+}
+h2, p {
+  margin-left: 10px;
+}
